@@ -1,0 +1,12 @@
+attrs==23.2.0
+cffi==1.16.0
+jax==0.4.28
+jaxlib==0.4.28
+mediapipe==0.10.14
+opt-einsum==3.3.0
+pycparser==2.22
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.17.0
+pyserial==3.5
+sounddevice==0.4.7

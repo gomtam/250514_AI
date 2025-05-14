@@ -1,0 +1,25 @@
+# Python 바이트 컴파일 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 배포 / 패키징
+*.so
+dist/
+build/
+*.egg-info/
+
+# 가상 환경
+venv/
+env/
+ENV/
+
+# IDE 설정 파일
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db 
